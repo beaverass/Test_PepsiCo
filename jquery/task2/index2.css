@@ -1,0 +1,13 @@
+#Block1{
+    display: flex;
+    justify-content: center;
+
+}
+#Block1 div, span {
+    width: 150px;
+    height: 40px;
+    float: left;
+    padding: 15px;
+    margin: 10px;
+    background-color: #EEEEEE;
+}
